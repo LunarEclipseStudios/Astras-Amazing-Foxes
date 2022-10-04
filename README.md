@@ -3,9 +3,11 @@
 
 
 Astra's Amazing Foxes is a small Minecraft resourcepack that changes the appearence of Minecraft foxes to have a slightly cuter appearence.
-![1](https://user-images.githubusercontent.com/26262092/187504073-a3e53c2f-92e4-495c-a2bf-14d3b667558e.png)
-![2](https://user-images.githubusercontent.com/26262092/187504078-5a3d2bf7-1106-4dab-8537-f75ace457df8.png)
-![3](https://user-images.githubusercontent.com/26262092/187504083-3d9bcbc3-7240-46e1-ab04-2dfa875c63f4.png)
+![image](https://user-images.githubusercontent.com/26262092/193725543-e3664ea0-2bee-4fd1-b18c-46d2adfc11a0.png)
+![image](https://user-images.githubusercontent.com/26262092/193725548-261df20c-c5be-48da-8c22-2bbc98e3854f.png)
+![image](https://user-images.githubusercontent.com/26262092/193725558-7b6d939b-254b-4f8d-9a22-a620c43b0543.png)
+![image](https://user-images.githubusercontent.com/26262092/193725567-edeef391-1a5d-422b-af2a-cb5b33d2a738.png)
+
 
 ## Installation
 
