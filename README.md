@@ -1,4 +1,4 @@
-# Astra's Amazing Foxes
+# ![image](https://user-images.githubusercontent.com/26262092/193725865-cfab81f6-2238-4ac1-9952-85c44eaf0726.png)
 ## Resource Pack for Minecraft: Java Edition
 
 
