@@ -1,15 +1,16 @@
 # ![image](https://user-images.githubusercontent.com/26262092/193725865-cfab81f6-2238-4ac1-9952-85c44eaf0726.png)
-## Resource Pack for Minecraft: Java Edition
 
+## **Resource Pack for Minecraft: Java Edition**
 
 Astra's Amazing Foxes is a small Minecraft resourcepack that changes the appearence of Minecraft foxes to have a slightly cuter appearence.
+
 ![image](https://user-images.githubusercontent.com/26262092/193725543-e3664ea0-2bee-4fd1-b18c-46d2adfc11a0.png)
 ![image](https://user-images.githubusercontent.com/26262092/193725548-261df20c-c5be-48da-8c22-2bbc98e3854f.png)
 ![image](https://user-images.githubusercontent.com/26262092/193725558-7b6d939b-254b-4f8d-9a22-a620c43b0543.png)
 ![image](https://user-images.githubusercontent.com/26262092/193725567-edeef391-1a5d-422b-af2a-cb5b33d2a738.png)
 
 
-## Installation
+## **Installation**
 
 #### Stable releases
 
@@ -20,7 +21,7 @@ Releases are considered to be **suitable for general use**, but they are not gua
 
 ---
 
-### Community
+## **Community**
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
@@ -30,6 +31,12 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ---
 
-### Website
+## **License**
+
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Astras-Amazing-Foxes/blob/main/LICENSE.md) file for more details.
+
+---
+
+## **Website**
 Feel free to check out our website!
 https://lunareclipse.studio
